@@ -8,6 +8,8 @@ git status    ----> ver listar las carpetas de nuestro proyecto
 
 git add  (nombre de el archibo a subir )  ......> empiesa a agregar los archivos que modificamos 
 git commit ---->  editor de codigo bin -> para dar un mensaje hastab dond hayamos modificado crea los HAS
+               precionamos (i) para introducir nuestro mensaje 
+		ESQ _---> luego (:wq) 
 git log ----> para ver el id de nuestro has quien lo realizo hora y minuto 
 git status    ---> de nuevo para ver lo nuevo 
 
@@ -15,10 +17,16 @@ git status    ---> de nuevo para ver lo nuevo
 
 para retroceder en algun commit que nos equivoquemos 
 
-git remote add origin https://github.com/groverchoque/proyectoprueba.git
- git push -u origin master
+al realizar alguna modificacion veremos  en cualquier archivo 
+git status   ---->>> nos muestra los archivos que modificar
+git checkout --->>  para desaser los cambios que ayamos echo en los archivos que modifiquemos  
+git status    
+git diff (nombre de archivo para ver lo que se a cambiado y borrado del mismo)
+
+git commit -m (mensaje a escrivir )
 
 
+git 
 
 
 
