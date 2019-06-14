@@ -18,6 +18,7 @@ para retroceder en algun commit que nos equivoquemos
 git remote add origin https://github.com/groverchoque/proyectoprueba.git
  git push -u origin master
 
+hola mundo 
 
 
 
